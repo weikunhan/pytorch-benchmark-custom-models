@@ -1,0 +1,5 @@
+{
+    "title": "The configure file for benchmarking modified models",
+    "model_list": ["resnet50", "spnet_bn"], 
+    "image_size": [224, 224]
+}
