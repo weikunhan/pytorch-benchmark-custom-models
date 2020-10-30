@@ -1,4 +1,4 @@
-# pytorch-benchmark-custom-models
+# PyTorch benchmark custom models
 
 The PyTorch benchmark script for custom models
 

@@ -115,7 +115,6 @@ def main():
         durations = inference(random_loader, model, device,  args.warm_up)
         benchmark_inference_time_dict[model_name] = durations
         del model
-
    
     print('The number of {} tests run for each model:'.format(args.test_size))
 
