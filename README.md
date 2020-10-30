@@ -17,7 +17,7 @@ pip install -r requirements.txt
 
 ## Configuration
 
-You can configure which models for benchmarking and size of images in file [config_benchmark_custom_models.json](./config_benchmark_custom_models.json).
+You can configure benchmarked models and size of images in file [config_benchmark_custom_models.json](./config_benchmark_custom_models.json).
 
 ## Usage
 
